@@ -1,26 +1,5 @@
-Métodos de extenesion
-
-Feature
-	-PageContent
-		Extensions
-			NewApiHelper.cs
-			
-Foundation
-	-Atom
-		Helpers
-			AtomHelper.cs	
-			LowercaseNamingStrategy.cs
-			NavigationTitleHelperExtensions.cs
-	-BranchPressets
-		LayoutHelpers.cs
-	-Forms
-		Extensions
-			SitecoreHelperExtensions.cs
-	-SitecoreExtensions
-		ItemExtensions.cs
-	
-
 VSTS - Visual Studio Team Services --- TFS (Team Foundation Server)
+---------------------------------------------------------------------------------------------
 
 ¿Que es VSTS?
 
@@ -37,6 +16,15 @@ en ambos casos, nosotros realizamos toda la configuracion (Red, DNS, Base de Dat
 
 La version online (VSTS) esta instalada en la nube, nos da toda la funcionalidad y nosotros no tenemos que hacer nada. Si tenemos que instalar componentes adicionales, tenemos
 las EXTENSIONES, mientras que la versión local tendríamos que configurar todo nosotros.
+
+Esto es similar a Sharepoint y Sharepoint online.
+
+Comenzamos usando TFS por el año 2005 y por aquel entonces estaba de moda SourceSafe. Posteriormente este se retiro y TFS le sustituyo.
+Todo el mundo se cambio a TFS y la desventaja es que todo el mundo penso que TFS era una reescritura de SourceSafe, es decir, basicamente
+un control de versiones. Pero aqui esta el error ya que es algo mas que eso. 
+Un control de código fuente TFVC, herramientas automatizadas de compilación, gestión de proyectos, gestión y seguimiento de defectos, algunos paneles
+básicos e informes permitidos en Sharepoint y SQL Server Reporting Services
+
 
 ¿Porque usar VSTS?
 
@@ -82,7 +70,8 @@ Real World Scrum with TFS 2013 course
 		Ahora las cuentas de Microsoft utilizan para logarse el sistema de Microsoft por
 		lo que una cuenta Microsoft puede terminar en algo tipo @outlook,  @hotmail, @live
 		
-		Para ello vamos a esta URL signup.live.com y creamos el usuario.
+		Para ello vamos a esta URL signup.live.com y creamos el usuario. Esto por defecto nos
+		proporciona una cuenta de correo nueva.
 	
 	2-Una vez tenemos la cuenta vamos a visualstudio.com y buscamos por team services o vamos directamente a esta URL visualstudio.com/team-services
 	Pulsamos el boton "Get Started for Free" y podemos empezar a crear nuestro proyecto.
@@ -92,27 +81,16 @@ Real World Scrum with TFS 2013 course
 	
 	
 	
-1-Planificación del proyecto
-	Definimos el modo de trabajo.
-		Metodogías agiles
-			Scrum
-			Canvan
-	Definimos los items de trabajo a partir de los requisitos que nos proporciona el cliente
-		Epics
-			Features
-				Work Items
-					Task
-				Bugs
-	Definimos boards
-	En caso de que utilicemos métodologias ágiles, definimos la duracción de los sprints, etc...
-	Realizariamos e
-2-Control del código fuente
-
+Definiciones
+-----------------------------------------------------------------------------------------------------
 VSTS - Visual Studio Team Services
 TFS - Team Foundation Server
 Git
 TFVC - Team Foundation Version Control
 TPC - Team Project Collection
 
+Vocabulario|Expresiones
+----------------------------------------------------------------------------------------------------
 My guess is that it's been awhile: Mi suposicion es que ha pasado un tiempo
-
+My guess also is you are going to answer like this: Mi suposición es que vas a responder así.
+And guess what?: adivina que?

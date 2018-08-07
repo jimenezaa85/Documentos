@@ -1,0 +1,25 @@
+TO-DO
+--------------------------------------------------------------------------------------------
+Everything looks good, logs are green, but I believe you are missing SXA SOLR cores
+1.7.1 introduced optimized SXA indexes and they're not installed through the package of course
+So would be nice to add those to SIF as well
+can add them to the SOLR core setup
+and then we need to patch some config after SXA was installed, either we add a config patch or we have SIF do the modification
+
+-Solr cores are missings
+-SXA solr cores 1.7.1 introduced optimized SXA indexes que no son instalados a traves del paquete
+Añadirlos a la instalacion de SOLR
+Necesito añadir patch
+
+
+
+IN-PROGRESS
+----------------------------------------------------------------------------------------------
+
+
+DONE
+----------------------------------------------------------------------------------------------
+
+-Cambiar install.ps1
+    La carpeta fisica del site tiene que llamarse lanxess y lanxess.xconnect
+    La instancia tiene que llamarse lanxess.intranet.sxa.sc y lanxess.xconnect
