@@ -11,6 +11,15 @@ and then we need to patch some config after SXA was installed, either we add a c
 Añadirlos a la instalacion de SOLR
 Necesito añadir patch
 
+I see there's solr cores missing from SXA 
+and I think we need to include a task in the SIF to enable the app pool users to read/write counters
+
+I believe you are missing SXA SOLR cores 1.7.1 introduced optimized SXA indexes and they're not installed through the package of course
+So would be nice to add those to SIF as well can add them to the SOLR core setup  and then we need to patch some config after 
+SXA was installed, either we add a config patch or we have SIF do the modification
+
+Hi Ivan 
+I'm a little bit lost with SXA Solr Cores
 
 
 IN-PROGRESS
@@ -23,3 +32,42 @@ DONE
 -Cambiar install.ps1
     La carpeta fisica del site tiene que llamarse lanxess y lanxess.xconnect
     La instancia tiene que llamarse lanxess.intranet.sxa.sc y lanxess.xconnect
+
+
+curioso, pregunton, proactivo, mostrar interes
+Hacer que las cosas pasen, no esperar a que las cosas sucedan
+
+buscar como sonsacar toda la informacion de un proyecto, posibles preguntas,
+tanto a mi como a mis compañeros
+
+
+Hi,
+My name is Alberto,
+I need to learn English. I have a basic level.
+I can teach you Spanish
+are you interested?
+can we exchange language?
+
+https://lanxess.com/
+
+What we are doing in the project?
+Step 1 - We are rebulding an intranet environment
+Step 2 - We will be building the internet environment
+
+The content of intranet is mainly chemical news and products descriptions
+
+The other supplier was making a lot of mistakes, 
+They took a long time for minor changes
+Also for updates they changed a lot of money.
+That is how Lanxess found out something was wrong
+There was a lot of code that was built in such a way that it could only be changed by the
+supplier.
+
+So they were very dependant on them.
+
+That is why they asked Cognizant to rebuild everything accoding to Sitecore specifics and to not
+implement any of the other platforms
+
+
+do you know what are the bussines goals?
+why they decided to use Sitecore instead of other CMS?
