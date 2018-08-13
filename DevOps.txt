@@ -90,6 +90,19 @@ Los 5 primeros usuarios son gratis. Tienen el mismo acceso que los
 stakeholder pero a mayores más opciones como inlimitados repositorios
 privados de Git, lo que quiere decir que tenemos acceso a los repositorios de Git
 
+Faltan algunas caracteristicas si venimos del mundo de TFS. como por ejemplo todo lo relacionado con QA y pruebas,
+tampoco obtenemos la administración de paquetes nuget.
+Esto no significa que no podamos utilizar los paquetes nuget en nuestros proyectos.
+simplemente quiere decir que no podemos utilizar VSTS para almacenar paquetes nuget
+privados que solo yo puedo ver.
+
+Pero podemos comprar estas caracteristicas que estan ausentes.
+Podemos añadir el Test Manager a nuestra cuenta de VSTS y nos da la posiblidad de
+utilizar todas las herramientas de testing (QA)
+y tiene un coste de 52$ por mes. aproximadamente
+
+Por ejemplo el Package Management que nos permite albergar paquetes nuget
+de forma privada tiene un coste de 4$ al mes por usuario.
 
 -Stakeholder
 Este tipo de cuenta es gratis. Es un usuario que solo puede version
@@ -103,9 +116,34 @@ aprovar releases entre diferentes entornos.
 No pueden crear nuevos dashboards
 
 -Visual Studio subscriber
+Este es un usuario que ya esta pagando por Visual Studio.
+Por ejemplo mi usuario de cognizant, que tiene licencia Enterprise
+entonces como pagamos esa licencia para Visual Studio, trae consigo unos
+beneficios que se pueden aprovecahr en VSTS
+
+Los beneficios son similares a una cuenta basica pero no cuenta en las
+cinco cuentas libres que permite VSTS
+
+Pero también tenemos Test Managerm lo que nos permite utilizar
+todas las herramientas de QA, y tener el Package Manager que nos
+da todas las caracteristicas de los paquetes nuget
+
+Pero si no estamos suscritos a Visual Studio podemos comprar una?
+Podmeos obtener una licencia profesional por 45€ mes, 539€ al año o podemos
+obtener una licencia Enterprise por 250$ al mes o 3000$ al año
+
+Si queremos comprar mas de los 5 usuarios, podemos hacerlo por unos 6€ al mes,
+
+Por ejemplo si tuvieramos un equipo de 6 personas solo pagariamos por una.
 
 En esta web vienen todas las caracteristicas y comparación de los tipos de 
 cuenta
+
+Si queremos empezar añadiendo mas usuarios y caracteristicas a nuestras cuentas
+tenenmos que adjuntar nuestra cuenta de VSTS a una subscripcion de Azure
+
+La subscripcion de Azure es la forma de pagar por estas cosas.
+
 visualstudio.com/team-services/compare-features
 
 	
@@ -128,17 +166,98 @@ awful: horrible
 
 
 -----------------------------------------------------------------------------------------------------
-13/08/2018 - Recibi mail, y paso todo lo que sabemos.
-Con lo cual reiniciamos el contacto 0 de nuevo.
--No aprendemos !!!!!
-Esto ya es culpa mia que realmente no quiero superarlo. Sabia perfectamente que podia pasar y no lo quise cubrir
-Al igual q sabemos que a traves de la app Mesajes o FaceTime puede contactarme.
 
 
-Analizar en que me equivoque
-Analizar en que falle
-Analizar en que fallo ella
-Tenerlo todo muy claro
+13/08/2018
+Ayer rompi el contacto 0, tras tres semanas. Es cierto que realmente no es como volver a empezar de nuevo, estoy más fuerte que al principio
+(o eso creo) pero realmente me encuentro mal porque sabia el tipo de mensaje que era, un tanteo en toda regla.
+Bajo mi punto de vista actue muy bien. Ahora ya, cada vez lo tiene más dificil, las posibilidades de contacto son minimas, 
+yo estoy cada vez más fuerte y dispuesto a olvidarla.
+
+Tengo que ponerme serio en este tema, que no es ninguna broma y me esta afectanto a todos los niveles de mi vida.
+
+¿Que sentimientos tengo?
+Tristeza porque se termino, la echo de menos, me gustaria estar con ella y tenerla al lado. ESto es porque soy 
+dependiente emocional.
+
+*****Necesito actividades en las que este concentrado y no piense en nada en absoluto
+
+Plan a seguir
+------------------------------------------------------------------------------------------------------------------------------
+Vamos a seguir haciendo las cosas MUY BIEN como hasta ahora.
+1-Contacto 0. Reinicio: 13/08/2018
+	Cerrar todas las vias de comunicación posibles. Si por algun casual quiere contactar que se en encuentre con un muro, 
+	con un bloque de hierro, que vea que realmente ya no estoy.
+	Vamos a poner a prueba mi capacidad de autoControl, y ver si realmente soy capaz de conseguirlo. Es una tarea dificil, en la que muchas
+	personas se ven perjudicadas sin tener culpa, sobre todo las personas de los grupos, pero de momento, ahora, en esta época y situación de
+	vida tiene que ser así.
+
+	Si fallo y caigo en la tentación de mirar whatsap, no pasa nada soy humano, simplemente vengo aqui y lo apunto. Recuerda
+	que muchas veces un paso atras son dos para adelante.
+
+	IMPORTANTE: ¿Que has encontrado en el tanteo?
+	En resumen, simplemente a sido para quedarse tranquila de que estoy bien. Ella tiene el remordimiento de si me ha dejado muy mal o no y por
+	eso escribe, no porque realmente le interese algo.
+
+	Esto implica cerrar todas las vias de conexión
+		-Hotmail // skype
+		-FaceTime 
+		-Mensajes 
+
+	El contacto 0 también implica no pensarla pero esto es bastante dificil ahora mismo. Para esto hay que estar muy presente. Meditar.
+
+2-Eliminar todo tipo de objetos que me recuerden a ella. En este punto, ahora mismo lo unico que uso es la riñonera.
+
+3-Prohibido escuchar musica de amor, ver peliculas noñas, etc..... ya sabes.
+
+4-Prohibido hablar del tema con la gente. Nose habla con nadie en absoluto. En este caso solo lo estoy llevando con el Tomy, pero
+tampoco hemos de tener en cuenta todo lo que dice, siempre he de cuestionar todo.
+
+5-Hacer una vida normal, con esto quiero decir, que salvo el tema del whatsap, comportarme normal no hacer o dejar de  hacer cosas
+por ella, por el que diran, etc...
+
+6-Mucho cuidado con la bebida
+
+7-Sigue cuidando la alimentación y forma física ahora más que nunca.
+
+Todas estas cosas son muy faciles de decir, pero muy complicadas de llevar a cabo.
+
+Si realmente me ama y quiere estar conmigo, me buscara en el fin del mundo si es necesario y volvera.
+
+Por el resto vida normal, hay que avanzar mientras la vida golpea. Aqui y ahora.
+
+Esto son una serie de tips que tengo que tener en cuenta para recuperarme. Ahora mismo es como estar lesionado. Estoy en proceso de
+recuperación, dependiendo el interes que tenga en recuperarme, pues esto acelera el proceso.
+
+Hacer las cosas de manera controlada, no compulsiva. por ejemplo mucho deporte me hace sentir bien,
+pero eso es como un atajo para evitar ese dolor, creo q debo parar pensar y superarlo
+
+No confio en mi mismo. Me siento inferior, no tengo moral. Tengo que hacer cosas que me hagan sentir mejor.
+
+Todo lo que me gustaba hacer con mi pareja pues lo puedo hacer yo solo.
+
+Tengo que ser proactivo, aunque duela, majete, eso es lo que me va hacer vivir nuevas experiencias.
+
+Hay que rodearse de gente positiva. Ahora mismo me estoy juntando con mi hermano que tiene una situación muy negativa.
+Me estoy regocijando en la emocion negativa y eso no es salir del problema.
+Somo la suma de las 5 personas mas cercanas. 
+Mucho cuidado con juntarme con el Tomas ahora mismo.
+
+MUY IMPORTANTE:
+ 	-Analizar en que me equivoque
+ 	-Analizar en que falle, que hice mal
+	-Analizar en que fallo ella
+	-Tenerlo todo muy claro
+	-Analizar lo que implicaria una posible vuelta con ella:
+		-Analizar que tipo de vida llevaria. Viviriamos juntos los tres. Seria capaz de soportar que tiene una hija.
+		Tendria la suficiente fuerza mental como para aguantar la presion, familias (mia suya y tercera implicada), amigos, etc.
+		-Seguiria viviendo en la distancia, simplemente lo tomaria como una novia
+		-Te verias viviendo con ella en su casa y su hija??
+		-Imaginate una vida asi?
+		-Imaginate lo mismo pero con otra chica normal?
+		Imagina todas lascosas que tiene cuidar un niño, que encima no es tuyo, serias lo suficiente maduro y tendrías la
+		suficiente fuerza mental para llevarlo a cabo?
+
 Cuando nos encontremos con ella por la calle sonreir, no ir de victima pero tampoco de ser superior. 
 Normalidad ante todo.
 No dar celos
@@ -168,51 +287,15 @@ Recuperar autoestima.
 Ese tiempo que invertimos en pensar en la pareja, tenemos que emplearlo
 en pensar en otra cosa. Prohibido pensar en ella
 
-13/08/2018
-Ayer rompi el contacto 0, tras tres semanas. Es cierto que realmente no es como volver a empezar de nuevo, estoy más fuerte que al principio
-pero realmente me encuentro mal porque sabia el tipo de mensaje que era, un tante en toda regla.
-Bajo mi punto de vista actue muy bien. Ahora ya lo tiene más dificil, porque tendría que mirar el email en span y no lo voy hacer, pero si
-por un casual lo hiciese, solo respondo a cosas como te quiero o quiero volver contigo. Nada de te echo de menos, etc...
+No hay que buscar respuestas rapidas
+	Tengo que ver como viene ese dolor
+	Dependencencia emocional a esa persona
+	Estaba mucho en la zona de confort
 
-Vamos a seguir haciendo las cosas MUY BIEN como hasta ahora.
-1-Contacto 0. 
-	Esto implica cerrar todas las vias de conexión
-		-Whatsap
-		-Email hotmail no y tengo ademas el skype
-		-FaceTime
-		-Mensajes
+Hay que ver las cosas que haria ahora mismo.
 
-	Que la proxima vez que contacte se encuentre con un muro. Un bloque de hierro. 
-	También implica no pensarla. Para esto es bueno estar presente. Meditar.
-
-2-Eliminar todo tipo de objetos que me recuerden a ella.
-3-Prohibido escuchar musica de amor, etc..... ya sabes.
-
-
-
-Lo del wasthap de archivar un chat no funciona porque lo que ocurre es que cuando alguien escribe de nuevo
-el chat aparece arriba.
-En mi nuevo movil creo que he encontrado una solución que con fuerza de voluntad puede funcionar.
-El tema es que si dejo apretado sobre el icono, me aparece las notificaciones sin realmente tener que entrar en whatsap.
-
-Esto me imagino que con el paso de los meses sera cada vez mas facil y me dara todo igual, pero ahora una buena forma de poner
-aprueba mi auto control es esto, evitar abrir wasthap.
-
-Para ello tengo que silenciar realmente los grupos que no quiero que me aparezcan notificaciones. Habra otros grupos importatntes que si.
-Esto lo dejo mirado luego a la hora de la comida.
-A partir de hoy vamos a ver si puedo hacerlo realmente.
-Para ello dia que no entre 1€ a mi favor.
-Si estoy un mes son 30€
-Si estoy dos meses 60€
-Si estoy 3 meses 90€ 
-Ya daría para un buen capricho.
-Si realmente me ama y quiere estar conmigo, me buscara en el fin del
-mundo si es necesario y volvera.
-
-Y creo que voy hacer otra cosa, cerrar todas las vías de contacto y dejarlo todo en manos del destino, esto es,
-que me la pueda encontrar un dia en Salamanca, etc...
-
-Por el resto vida normal, hay que avanzar mientras la vida golpea. Aqui y ahora.
+Empezara a quererme, mas, tratame como un ser unico, excepcional
+y empezaremos a destacar.
 
 
 
