@@ -134,22 +134,7 @@ We have Demo User. Let's click Add. And that action is successful.
 We added one user to one team. So let's go take a look at what that looks like for our benday-demo1 user. 
 So we'll switch over and look at that person's email, and they'll get an email in their inbox that looks kind of like this. So the email they'll get will say, You've been invited to a Visual Studio Team Services project! And it'll have a link to that project. Now this is a different link, different URL than what we're working with right now, but what they do is they click on that link, and that'll take them to a project you just invited them to. What they can also do is they could just pop open a new tab, paste in the URL for your account, so benday-vsts-2018. And that'll take them to a screen that looks like this. It shows them the project that they're attached to, and if you hover over that project, click on it, it takes you into that project. And if you go to Dashboards, now we have two team members, Demo user and my account. So there you go. We've just added a new MSA user into our project in VSTS. Next up: Let's talk about account types, features, and billing.
 
- 
-Account Types, Features, and Billing
-Now before I dive in to some details on the various types of users, 
-I want to remind you that VSTS isn't just for Visual Studio-based developers. 
-You don't have to be using Visual Studio. 
-You don't have to develop in .NET. 
-You don't have to develop C++ for Windows. 
-You don't have to focus on any of that stuff. 
-It's intended to be cross-platform. 
-And, remember, VSTS, just like Team Foundation Server, is not only about version control. 
-It's cross-platform. 
-Remember that. 
-You don't have to be using Visual Studio in order to do it. 
-So, let's jump in. 
-
-Demo: Attach VSTS to an Azure Subscription & Link to Azure Active Directory
+ Demo: Attach VSTS to an Azure Subscription & Link to Azure Active Directory
 Alright, let's do a demo. So in this demo, I'm going to show you how to attach your VSTS account to an Azure subscription. 
 And then I'm going to show you how to hook that up to Azure Active Directory. Here we are in our project. 
 So we're looking at our URL up here for our visualstudio.com account. 
