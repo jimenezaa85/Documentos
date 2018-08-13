@@ -79,7 +79,35 @@ Real World Scrum with TFS 2013 course
 	Basicamente hemos creado un Team Project Collection (TPC)
 	En cada TPC podemos tener varios proyectos de equipo por cuenta
 	
-	
+-TEMA 2-
+Tipos de cuentas, caracteristicas y facturación.
+VSTS es gratis pero tambien tenemso la opcion de pagar por ciertas 
+cosas que te elevan a un nivel superior
+
+3 tipos de cuenta
+-Basico
+Los 5 primeros usuarios son gratis. Tienen el mismo acceso que los
+stakeholder pero a mayores más opciones como inlimitados repositorios
+privados de Git, lo que quiere decir que tenemos acceso a los repositorios de Git
+
+
+-Stakeholder
+Este tipo de cuenta es gratis. Es un usuario que solo puede version
+nuestros proyectos pero no puede modificar nada.
+
+Solo puede hacer como administrar bugs, ver diferentes tipos de reportes
+y graficas, aprovar releases y suscribirse a las alertas por email.
+
+No tiene acceso al codigo ni al control de versiones. Solo puede
+aprovar releases entre diferentes entornos.
+No pueden crear nuevos dashboards
+
+-Visual Studio subscriber
+
+En esta web vienen todas las caracteristicas y comparación de los tipos de 
+cuenta
+visualstudio.com/team-services/compare-features
+
 	
 Definiciones
 -----------------------------------------------------------------------------------------------------
@@ -88,9 +116,104 @@ TFS - Team Foundation Server
 Git
 TFVC - Team Foundation Version Control
 TPC - Team Project Collection
+MSA - Microsoft User Account
+ADD - Azure Active Directori
 
 Vocabulario|Expresiones
 ----------------------------------------------------------------------------------------------------
 My guess is that it's been awhile: Mi suposicion es que ha pasado un tiempo
 My guess also is you are going to answer like this: Mi suposición es que vas a responder así.
 And guess what?: adivina que?
+awful: horrible
+
+
+-----------------------------------------------------------------------------------------------------
+13/08/2018 - Recibi mail, y paso todo lo que sabemos.
+Con lo cual reiniciamos el contacto 0 de nuevo.
+-No aprendemos !!!!!
+Esto ya es culpa mia que realmente no quiero superarlo. Sabia perfectamente que podia pasar y no lo quise cubrir
+Al igual q sabemos que a traves de la app Mesajes o FaceTime puede contactarme.
+
+
+Analizar en que me equivoque
+Analizar en que falle
+Analizar en que fallo ella
+Tenerlo todo muy claro
+Cuando nos encontremos con ella por la calle sonreir, no ir de victima pero tampoco de ser superior. 
+Normalidad ante todo.
+No dar celos
+Comportamiento normal.
+Crear incertidumbre, como ha pasado hasta ahora, que hemos estado tres semanas sin hablarnos y ella contacto
+Romper todo contacto con ella. Recuerda ojos que no ven, corazon que no sienten
+
+Nadie me ha abandonado. Me han dejado, hemos roto
+
+Hay que pensar si merece la pena volver, hacer ese sacrificio de volver
+
+Si vuelvo como seria nuestra vida. ¿Imagina si vuelves como quieres vivir realmente con ella?
+Tiempo: minimo 88 dias
+Cuando uno sube el otro baja
+Si tu dejas de estar triste la otra persona se da cuenta, se lo imaginará por lo que sea
+
+Ponte un tiempo de espera. ¿Estoy dispuesto a  esperar hasta X fecha? Si pasado este tiempo
+no vuelve entonces ya 
+
+Si esta persona te ama volvera
+
+Hazte independiente, esto es mi vida no puede girar en torno a recuperar a mi pareja. Si yo dejo de estar triste la otra persona
+se lo imaginara, y eso es lo que mas le va hacer volver.
+
+Recuperar el amor depositado, las energias.
+Recuperar autoestima.
+Ese tiempo que invertimos en pensar en la pareja, tenemos que emplearlo
+en pensar en otra cosa. Prohibido pensar en ella
+
+13/08/2018
+Ayer rompi el contacto 0, tras tres semanas. Es cierto que realmente no es como volver a empezar de nuevo, estoy más fuerte que al principio
+pero realmente me encuentro mal porque sabia el tipo de mensaje que era, un tante en toda regla.
+Bajo mi punto de vista actue muy bien. Ahora ya lo tiene más dificil, porque tendría que mirar el email en span y no lo voy hacer, pero si
+por un casual lo hiciese, solo respondo a cosas como te quiero o quiero volver contigo. Nada de te echo de menos, etc...
+
+Vamos a seguir haciendo las cosas MUY BIEN como hasta ahora.
+1-Contacto 0. 
+	Esto implica cerrar todas las vias de conexión
+		-Whatsap
+		-Email hotmail no y tengo ademas el skype
+		-FaceTime
+		-Mensajes
+
+	Que la proxima vez que contacte se encuentre con un muro. Un bloque de hierro. 
+	También implica no pensarla. Para esto es bueno estar presente. Meditar.
+
+2-Eliminar todo tipo de objetos que me recuerden a ella.
+3-Prohibido escuchar musica de amor, etc..... ya sabes.
+
+
+
+Lo del wasthap de archivar un chat no funciona porque lo que ocurre es que cuando alguien escribe de nuevo
+el chat aparece arriba.
+En mi nuevo movil creo que he encontrado una solución que con fuerza de voluntad puede funcionar.
+El tema es que si dejo apretado sobre el icono, me aparece las notificaciones sin realmente tener que entrar en whatsap.
+
+Esto me imagino que con el paso de los meses sera cada vez mas facil y me dara todo igual, pero ahora una buena forma de poner
+aprueba mi auto control es esto, evitar abrir wasthap.
+
+Para ello tengo que silenciar realmente los grupos que no quiero que me aparezcan notificaciones. Habra otros grupos importatntes que si.
+Esto lo dejo mirado luego a la hora de la comida.
+A partir de hoy vamos a ver si puedo hacerlo realmente.
+Para ello dia que no entre 1€ a mi favor.
+Si estoy un mes son 30€
+Si estoy dos meses 60€
+Si estoy 3 meses 90€ 
+Ya daría para un buen capricho.
+Si realmente me ama y quiere estar conmigo, me buscara en el fin del
+mundo si es necesario y volvera.
+
+Y creo que voy hacer otra cosa, cerrar todas las vías de contacto y dejarlo todo en manos del destino, esto es,
+que me la pueda encontrar un dia en Salamanca, etc...
+
+Por el resto vida normal, hay que avanzar mientras la vida golpea. Aqui y ahora.
+
+
+
+

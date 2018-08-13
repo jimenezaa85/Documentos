@@ -1,0 +1,60 @@
+ Capitulo 2, para no pisar el commit pendiente en casa
+
+ 
+ 
+Solr es un motor de búsqueda que nos ayuda a buscar contenido rápidamente. 
+Sitecore 8.2 y versiones posteriores vienen preconfigurados con Lucene.Net, que también es un motor de búsqueda. 
+Lucene.Net es más básico y tiene sus limitaciones, por lo que más clientes solicitan o necesitan un motor de búsqueda más capacitado. 
+Sitecore admite Solr, que se basa en Lucene pero lo amplía para proporcionar más potencia.
+
+¿Que es un Core y como configurarlo?
+
+
+¿Que es un motor de búsqueda?
+
+Un índice es un tipo de almacenamiento que es similar a una tabla DB donde podemos almacenar datos que pertenecen al mismo proyecto (para proyectos de tamaño pequeño a mediano) o el mismo módulo / componente (para proyectos más grandes). Sitecore, por ejemplo, usa un índice para almacenar datos de contenido de Master DB en un índice, datos de contenido de Web DB en otro índice, datos de Analytics en otro y así sucesivamente ... En una instalación básica de Sitecore, generalmente se necesitan los siguientes índices
+
+Un core contiene un archivo de configuracion en formato xml (solrconfig.xml) que contiene la definicion de los campos que seran almacenados.
+Sitecore tiene varios campos comunes que son requeridos por todos los cores, como el id, name, path of items.
+
+Esto significa que schema.xml tendrá que ser editado antes de usar el core.
+
+Para crear un core: Vamos a la siguiente carpeta C:\Solr\solr-{versionNumber}\server\solr
+
+Copia todos los cores de tu proyecto y copialos en otra nueva.
+
+En la nueva carpeta abrimos cada core y eliminamos la carpeta data. Esta contiene todos los datos indexados lo que incrementa de forma
+significativa el tamño de la carpeta.
+
+Finalmente reinciamos la instancia de Solr
+
+lanxess.intranet.sxa_core_index
+lanxess.intranet.sxa_fxm_master_index
+lanxess.intranet.sxa_fmx_web_index
+lanxess.intranet.sxa_marketing_asset_index_master
+lanxess.intranet.sxa_marketing_asset_index_web
+lanxess.intranet.sxa_marketingdefinitions_master
+lanxess.intranet.sxa_marketingdefinitions_web
+lanxess.intranet.sxa_master_index
+lanxess.intranet.sxa_suggested_test_index
+lanxess.intranet.sxa_testing_index
+lanxess.intranet.sxa_web_index
+lanxess.intranet.sxa_xdb
+lanxess.intranet.sxa_xdb_rebuild
+
+SolrUrl: https://localhost:8983/solr
+SolrRoot: C:\Program Files\solr-6.6.2
+SolrService: SOLR 662
+BaseConfig: basic_configs
+CorePrefix: lanxess.intranet.sxa
+
+Solr.FullRoot: C:\Program Files\solr-6.6.2
+Solr.server: C:\Program Files\solr-6.6.2\server\solr
+Solr.BaseConfigs: C:\Program Files\solr-6.6.2\server\solr\configsets\basic_configs
+Solr.SchemaFileName: managed-schema
+
+
+
+ Vocabulario
+ -----------------------------------------------------------------
+ aware: consciente
