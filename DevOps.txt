@@ -234,7 +234,23 @@ Ahora salgo:
 2-Compra|Tomas|Entreno
 
 La respuesta simple es que hemos creado un proyecto
-La respuesta menos simple es que hemos creado un Proyecto, con mayusculas
+La respuesta menos simple es que hemos creado un Proyecto, con mayúsculaes,
+esto tiene un determinado significado y es que hemos creado un proyecto ademas de un 
+monton de cosas
+
+En TFS esto significaria crear un Proyecto de Equipo (Team Project)
+Ese monton de cosas es lo siguiente:
+	Herramienta para el control de versiones: nos permine manejar nuestro código fuente
+	Herramienta para gestion el proyecto (Project Management)
+	Herramientas para gestionar builds y Releases de forma automatica.
+	Herramientas para gestionar las pruebas y el control de calidad (QA) -> Depende del tipo de licencia
+	Wiki para documentar todo lo relativo al proyecto.
+	Dashboards para darnos informes, gráficas, etc...
+
+Cuando creamos un proyecto, en realidad estamos creando un Proyecto de Equipo con todas estas herramientas
+y ademas de crear un proyecto de equipo, tambien creamos una cuenta de VSTS.
+En el caso de ejemplo ajemiez.visualstudio.com seria la cuenta de VSTS
+
 Tengo que llenarme mas, que me aporto yo a 
 
 -----------------------------------------------------------------------------------------------------
