@@ -62,12 +62,21 @@ Drilling this concept home, VSTS account versus VSTS project, I think of it a lo
 A filing cabinet, the physical overall structure is the VSTS account. 
 And then in that filing cabinet, you've got drawers, and each drawer is a VSTS project. 
 The VSTS account is the container for all your individual projects.
- 
+
+
 So, how do you go and view that VSTS account that you created? 
-Well, that is going to live inside of the Microsoft Azure portal, and you can get to the portal by going to portal.azure.com. 
-Once you get there, you're going to click on Team Services Accounts, and that'll show you your account. 
-And that account is going to have subscription information, user types, the actual users, billing and licensing information, build and deployment server information, and information about cloud-based load testing. 
+Well, that is going to live inside of the Microsoft Azure portal, 
+and you can get to the portal by going to portal.azure.com. 
+
+Once you get there, you're going to click on Team Services Accounts, 
+and that'll show you your account. 
+
+And that account is going to have subscription information, user types, the actual users, 
+billing and licensing information, build and deployment server information, 
+and information about cloud-based load testing.
+
 In short, it's the raw details of what's happening with VSTS as it relates to what you're doing. 
+
 So let's do a demo and go take a quick look at that portal and take a look at our account. 
 So here's our project. 
 We're logged in. 
@@ -76,19 +85,29 @@ This shows us a whole bunch of stuff, and let's scroll down a little ways.
 We have Team Services accounts right here. 
 Click on that. It shows us the accounts that our MSA, our Microsoft account, is attached to. 
 And the one we care about right now is this one right here, benday-vsts-2018. 
-This is the one we just created. Click on this. And this shows us the information about our account, for example, that it's sitting in the Central US Azure datacenter. 
-Here's our URL, https://benday-vsts-2018.visualstudio.com. Our status is active. 
+This is the one we just created. Click on this. And this shows us the information about our account, 
+for example, that it's sitting in the Central US Azure datacenter. 
+
++Here's our URL, https://benday-vsts-2018.visualstudio.com. Our status is active. 
 And then we've got a bunch of information about users, build and deployment, and cloud-based load testing. 
 Let's click on Users. 
 Right now, we haven't purchased anything, and we haven't assigned anything. 
 We have five free users that are waiting for us, and we're not using them yet. 
 Build and deployment service shows us what our automated build stuff looks like. 
-Cloud-based load testing, if you're doing that, click on that, it shows you information about your cloud-based load testing account. 
+
+Cloud-based load testing, if you're doing that, click on that, 
+it shows you information about your cloud-based load testing account. 
 But let's hop back to Properties. 
 So Properties shows us our account name. 
 Subscription ID is blank right now. 
-We'll talk about why that is the case a little bit later. Our URL and our Azure region. So that's the quick tour of our VSTS account in the Azure portal. 
-Now I'm showing you that that exists because it's important to remember if things get nutty, if things get weird, if things stop working in the way that you expect, or if you've got billing questions or all kinds of stuff like that, being able to access your account in the Azure portal is a really good place to start. So remember that it's there. Next up: Let's talk about adding some users to our project and to our account. 
+We'll talk about why that is the case a little bit later. 
+Our URL and our Azure region. So that's the quick tour of our VSTS account in the Azure portal. 
+Now I'm showing you that that exists because it's important to remember if things get nutty, (si las cosas se vuelven locas)
+if things get weird, if things stop working in the way that you expect, or 
+if you've got billing questions or all kinds of stuff like that, 
+being able to access your account in the Azure portal is a really good place to start. 
+So remember that it's there. 
+Next up: Let's talk about adding some users to our project and to our account. 
 
 
 User Types & Security in VSTS + Adding Users Using Microsoft Accounts
@@ -103,9 +122,15 @@ Because all the account details are handled by Microsoft, it's basically the opt
 But it's worth talking about Azure Active Directory users, AAD users. 
 These users are organizational accounts, also commonly referred to as Org IDs. 
 And you care about Org IDs usually, well, because you're doing enterprise stuff with VSTS. 
-So when I say enterprises, I'm thinking about companies or large companies where you're getting your account because it's attached to something that you do for your job. So your account is attached to a company. And what's good about this if you're a sysadmin is that this gives you additional control over what people do in VSTS or anything else. So let's think about some scenarios that you might care about that AAD stuff. For a lot of companies, this shows up because it's part of the company's move to the cloud. 
+So when I say enterprises, I'm thinking about companies or large companies where you're getting your account because it's attached to 
+something that you do for your job. 
+So your account is attached to a company. 
+And what's good about this if you're a sysadmin is that this gives you additional control over what people do in VSTS or anything else. 
+So let's think about some scenarios that you might care about that AAD stuff. 
+For a lot of companies, this shows up because it's part of the company's move to the cloud. 
 They've either taken their pre-cloud error Active Directory domain and moved it completely to the cloud, or they're synchronizing it to the cloud. 
-So here's a hint. If your company is using Office 365 for email, and you can log in to your workstation at work and then open your corporate email without having to type in a different username and password, this is probably a dead giveaway that your company is already using Azure Active Directory. 
+So here's a hint. 
+YIf your company is using Office 365 for email, and you can log in to your workstation at work and then open your corporate email without having to type in a different username and password, this is probably a dead giveaway that your company is already using Azure Active Directory. 
 What these Azure Active Directory accounts let you do is it'll let you access all your stuff with one login. 
 Now right now, I know for a fact that our VSTS account is not attached to Azure Active Directory. 
 

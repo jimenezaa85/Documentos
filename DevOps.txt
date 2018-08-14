@@ -146,7 +146,70 @@ La subscripcion de Azure es la forma de pagar por estas cosas.
 
 visualstudio.com/team-services/compare-features
 
-	
+Demo
+
+Ver como añadir mas usuarios a nuestro proyecto o cuenta.
+
+Tenemos 3 tipos de usuarios en VSTS
+-Basico
+-Stakeholder
+-Visual Studio subscriber
+
+La respuesta simple es que hemos creado un nuevo proyecto en VSTS
+Pero en realidad lo que has creado es algo que va a albergar muchos proyectos
+Porque hemos creado el ajeminez.visualstudio.com
+Y dentro automaticamente se crea el primero proyecto, pero podemos tener mas de uno.
+Es la estanteria que habla mas tarde
+
+fluir = dejar de sufrir	
+para que el amor sea sano
+El amor lleva implicita la aceptacion
+No puedo amar al projimo si no me a mo mi primero.
+Que ocurre: como no me amo a mi mismo, entonces estoy juzgandome constantenmente
+me machaco,me exijo que tengo que ser mejor, que tengo que saber ciertas cosas, q
+que tengo que aprender ingles, que tengo que entrenar mas para estar mas fuerte, etc...
+se lo encalomo al otro y le exijo que sea mejor, que cambie, etc...
+El amor lleva implicito la aceptacion
+Los padres te quieren y te exigen. Amor condicionado.
+La sociedad esta enferma, nuestros padren traen mochila, yo tengo la 
+mochila de mis padres, pero ahora ya sabiendo esto, tengo que tirar la mochila
+y depender de mi.
+
+Puro ego.
+Yo soy responsable de mi mismo, pero el único q puede cambiar
+soy yo y el resto puede cambiar desde el ejemplo, desde el amor, pero nunca exigiendo.
+
+No pasa nada. Todos los hacemos.
+Arrogancia
+
+Si yo nose lo que tengo que cambiar yo, porque soy una incognita
+como voy a saber lo que tiene que cambiar mi novia.
+Puro EGO
+ Sistema de creencias sostenido desde la infancia.
+ Hay que desmontarlo, es cuando empezamos a encontrarnos a nosotros mismos
+ y ser tu.
+ aceptacion
+ presencia: muy importante. 
+ Ralentizar la mente, estar en el ahora, nos da mucha pizarras
+ El proceso de la presencia de Michael Brown
+ Tremendamente liberador.
+ Comprender el proposito de una relacion
+ Todo es para mejor
+
+ No somos nuestros logros,
+ ni el dinero que ganamos, nos identificamos con los logros, metas, etc...
+todo esto es el personaje
+
+Me exigo, saberlo todo, tenerlo todo controlado,
+de tanta presión que me provoco soy incapaz de hacer nada
+
+Llevo 33 años dormido. Tuve un pequeño despertar hace tiempo, pero fue
+minimo.
+
+El tercer ojo. Lousam Rampa o algo asi.
+
+
+
 Definiciones
 -----------------------------------------------------------------------------------------------------
 VSTS - Visual Studio Team Services
@@ -164,138 +227,18 @@ My guess also is you are going to answer like this: Mi suposición es que vas a 
 And guess what?: adivina que?
 awful: horrible
 
+Fluir = Dejar de sufir
+
+Ahora salgo:
+1-Entreno pierna|Compra|Piscina|Paseo
+2-Compra|Tomas|Entreno
+
+La respuesta simple es que hemos creado un proyecto
+La respuesta menos simple es que hemos creado un Proyecto, con mayusculas
+Tengo que llenarme mas, que me aporto yo a 
 
 -----------------------------------------------------------------------------------------------------
 
-
-13/08/2018
-Ayer rompi el contacto 0, tras tres semanas. Es cierto que realmente no es como volver a empezar de nuevo, estoy más fuerte que al principio
-(o eso creo) pero realmente me encuentro mal porque sabia el tipo de mensaje que era, un tanteo en toda regla.
-Bajo mi punto de vista actue muy bien. Ahora ya, cada vez lo tiene más dificil, las posibilidades de contacto son minimas, 
-yo estoy cada vez más fuerte y dispuesto a olvidarla.
-
-Tengo que ponerme serio en este tema, que no es ninguna broma y me esta afectanto a todos los niveles de mi vida.
-
-¿Que sentimientos tengo?
-Tristeza porque se termino, la echo de menos, me gustaria estar con ella y tenerla al lado. ESto es porque soy 
-dependiente emocional.
-
-*****Necesito actividades en las que este concentrado y no piense en nada en absoluto
-
-Plan a seguir
-------------------------------------------------------------------------------------------------------------------------------
-Vamos a seguir haciendo las cosas MUY BIEN como hasta ahora.
-1-Contacto 0. Reinicio: 13/08/2018
-	Cerrar todas las vias de comunicación posibles. Si por algun casual quiere contactar que se en encuentre con un muro, 
-	con un bloque de hierro, que vea que realmente ya no estoy.
-	Vamos a poner a prueba mi capacidad de autoControl, y ver si realmente soy capaz de conseguirlo. Es una tarea dificil, en la que muchas
-	personas se ven perjudicadas sin tener culpa, sobre todo las personas de los grupos, pero de momento, ahora, en esta época y situación de
-	vida tiene que ser así.
-
-	Si fallo y caigo en la tentación de mirar whatsap, no pasa nada soy humano, simplemente vengo aqui y lo apunto. Recuerda
-	que muchas veces un paso atras son dos para adelante.
-
-	IMPORTANTE: ¿Que has encontrado en el tanteo?
-	En resumen, simplemente a sido para quedarse tranquila de que estoy bien. Ella tiene el remordimiento de si me ha dejado muy mal o no y por
-	eso escribe, no porque realmente le interese algo.
-
-	Esto implica cerrar todas las vias de conexión
-		-Hotmail // skype
-		-FaceTime 
-		-Mensajes 
-
-	El contacto 0 también implica no pensarla pero esto es bastante dificil ahora mismo. Para esto hay que estar muy presente. Meditar.
-
-2-Eliminar todo tipo de objetos que me recuerden a ella. En este punto, ahora mismo lo unico que uso es la riñonera.
-
-3-Prohibido escuchar musica de amor, ver peliculas noñas, etc..... ya sabes.
-
-4-Prohibido hablar del tema con la gente. Nose habla con nadie en absoluto. En este caso solo lo estoy llevando con el Tomy, pero
-tampoco hemos de tener en cuenta todo lo que dice, siempre he de cuestionar todo.
-
-5-Hacer una vida normal, con esto quiero decir, que salvo el tema del whatsap, comportarme normal no hacer o dejar de  hacer cosas
-por ella, por el que diran, etc...
-
-6-Mucho cuidado con la bebida
-
-7-Sigue cuidando la alimentación y forma física ahora más que nunca.
-
-Todas estas cosas son muy faciles de decir, pero muy complicadas de llevar a cabo.
-
-Si realmente me ama y quiere estar conmigo, me buscara en el fin del mundo si es necesario y volvera.
-
-Por el resto vida normal, hay que avanzar mientras la vida golpea. Aqui y ahora.
-
-Esto son una serie de tips que tengo que tener en cuenta para recuperarme. Ahora mismo es como estar lesionado. Estoy en proceso de
-recuperación, dependiendo el interes que tenga en recuperarme, pues esto acelera el proceso.
-
-Hacer las cosas de manera controlada, no compulsiva. por ejemplo mucho deporte me hace sentir bien,
-pero eso es como un atajo para evitar ese dolor, creo q debo parar pensar y superarlo
-
-No confio en mi mismo. Me siento inferior, no tengo moral. Tengo que hacer cosas que me hagan sentir mejor.
-
-Todo lo que me gustaba hacer con mi pareja pues lo puedo hacer yo solo.
-
-Tengo que ser proactivo, aunque duela, majete, eso es lo que me va hacer vivir nuevas experiencias.
-
-Hay que rodearse de gente positiva. Ahora mismo me estoy juntando con mi hermano que tiene una situación muy negativa.
-Me estoy regocijando en la emocion negativa y eso no es salir del problema.
-Somo la suma de las 5 personas mas cercanas. 
-Mucho cuidado con juntarme con el Tomas ahora mismo.
-
-MUY IMPORTANTE:
- 	-Analizar en que me equivoque
- 	-Analizar en que falle, que hice mal
-	-Analizar en que fallo ella
-	-Tenerlo todo muy claro
-	-Analizar lo que implicaria una posible vuelta con ella:
-		-Analizar que tipo de vida llevaria. Viviriamos juntos los tres. Seria capaz de soportar que tiene una hija.
-		Tendria la suficiente fuerza mental como para aguantar la presion, familias (mia suya y tercera implicada), amigos, etc.
-		-Seguiria viviendo en la distancia, simplemente lo tomaria como una novia
-		-Te verias viviendo con ella en su casa y su hija??
-		-Imaginate una vida asi?
-		-Imaginate lo mismo pero con otra chica normal?
-		Imagina todas lascosas que tiene cuidar un niño, que encima no es tuyo, serias lo suficiente maduro y tendrías la
-		suficiente fuerza mental para llevarlo a cabo?
-
-Cuando nos encontremos con ella por la calle sonreir, no ir de victima pero tampoco de ser superior. 
-Normalidad ante todo.
-No dar celos
-Comportamiento normal.
-Crear incertidumbre, como ha pasado hasta ahora, que hemos estado tres semanas sin hablarnos y ella contacto
-Romper todo contacto con ella. Recuerda ojos que no ven, corazon que no sienten
-
-Nadie me ha abandonado. Me han dejado, hemos roto
-
-Hay que pensar si merece la pena volver, hacer ese sacrificio de volver
-
-Si vuelvo como seria nuestra vida. ¿Imagina si vuelves como quieres vivir realmente con ella?
-Tiempo: minimo 88 dias
-Cuando uno sube el otro baja
-Si tu dejas de estar triste la otra persona se da cuenta, se lo imaginará por lo que sea
-
-Ponte un tiempo de espera. ¿Estoy dispuesto a  esperar hasta X fecha? Si pasado este tiempo
-no vuelve entonces ya 
-
-Si esta persona te ama volvera
-
-Hazte independiente, esto es mi vida no puede girar en torno a recuperar a mi pareja. Si yo dejo de estar triste la otra persona
-se lo imaginara, y eso es lo que mas le va hacer volver.
-
-Recuperar el amor depositado, las energias.
-Recuperar autoestima.
-Ese tiempo que invertimos en pensar en la pareja, tenemos que emplearlo
-en pensar en otra cosa. Prohibido pensar en ella
-
-No hay que buscar respuestas rapidas
-	Tengo que ver como viene ese dolor
-	Dependencencia emocional a esa persona
-	Estaba mucho en la zona de confort
-
-Hay que ver las cosas que haria ahora mismo.
-
-Empezara a quererme, mas, tratame como un ser unico, excepcional
-y empezaremos a destacar.
 
 
 
